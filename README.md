@@ -1,3 +1,3 @@
-# Addon Name
+# Clear Quests
 
-This is the repository for <Addon Name>. Modified for Ascension.gg. 
+This is the repository for Clear Quests. Created for Ascension.gg by [github/BanditTech](https://github.com/BanditTech)
